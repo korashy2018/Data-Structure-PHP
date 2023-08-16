@@ -3,3 +3,4 @@ replit.nix
 .config
 vendor
 composer.lock
+src/.docker/storage/mysql
