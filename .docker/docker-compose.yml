@@ -19,7 +19,7 @@ services:
     container_name: DS-nginx
     restart: always
     ports:
-      - "8080:8500"
+      - "8090:8500"
     volumes:
       - ../:/var/www
       - ./nginx:/etc/nginx/conf.d

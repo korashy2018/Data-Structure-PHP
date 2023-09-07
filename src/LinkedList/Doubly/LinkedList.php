@@ -6,6 +6,6 @@ class LinkedList
 {
     public function __construct()
     {
-        echo "Hello from LinkedList doubly";
+        echo "Hello from LinkedList doubly \n";
     }
 }
